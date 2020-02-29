@@ -1,0 +1,33 @@
+#outer{
+    background-color:lightgray !important;
+
+}
+#text{
+    background-color:lightgray !important;
+    
+    text-align:center;
+}
+hr{
+    border:2px solid lightgray;
+}
+
+.inner{
+    margin:  auto  auto; 
+    text-align:left;
+     padding:50px;
+     width:600px;
+     border:30px solid lightgray;
+     background-color: white;
+     
+}
+ h1{
+     font-family: 'Times New Roman', Times, serif;
+     color: #2C3E50 !important;
+ }
+b{
+    color: #2C3E50 !important;
+}
+
+#inline{
+    display: inline;
+}
